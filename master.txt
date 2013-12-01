@@ -1,1 +1,5 @@
-This is file that was on master mostly. Common for all.
+This is file that was on master mostly but not only (f1). Common for all.
+
+#
+Feature 1
+#

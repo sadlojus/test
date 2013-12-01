@@ -1,1 +1,1 @@
-This is file that was on master mostly. Common for all.
+This is file that was on master mostly and was edited on master. Common for all.
